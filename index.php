@@ -1,5 +1,5 @@
 <?php
-$sourcea = "https://www.freetutorials.us/wp-content/uploads/2018/07/FreeTutorials.Us-apache-cassandra.torrent";
+$sourcea = $_GET["link"];
 
 $magnet_mask = 'magnet:?xt=urn:btih:';
 
